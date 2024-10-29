@@ -183,19 +183,19 @@ nav p{
     width: 250px;
     padding: 5px;
     margin-bottom: 10px;
-    border: white solid 1px;
-    background-color: lavenderblush;
+    border: rgb(221, 90, 90) solid 1px;
+    background-color: rgb(226, 58, 114);
 }
 #contact-form input[type="mail"]{
     height: 20px;
     width: 250px;
     padding: 5px;
     margin-bottom: 10px;
-    border: white solid 1px;
-    background-color: lavenderblush;
+    border: rgb(224, 51, 51) solid 1px;
+    background-color: rgb(224, 68, 120);
 }
 #contact-form input[type='submit']:hover{
-    background-color: lavender;
+    background-color: rgb(218, 89, 190);
     border-radius: 7px;
 }
 #contact-form select{
@@ -203,12 +203,12 @@ nav p{
     width: 262px;
     padding: 5px;
     margin-bottom: 10px;
-    border: white solid 1px;
-    background-color: lavenderblush;
+    border: rgb(250, 138, 222) solid 1px;
+    background-color: rgb(231, 108, 149);
 
 }
 #contact-form{
-    background-color: rgb(214, 176, 250);
+    background-color: rgb(169, 105, 230);
 }
 #contact-form input[type="tel"]{
     height: 20px;
@@ -216,14 +216,14 @@ nav p{
     padding: 5px;
     margin-bottom: 10px;
     border: white solid 1px;
-    background-color: lavenderblush;
+    background-color: rgb(233, 105, 148);
 }
 #contact-form textarea[name="Review"]{
     width: 250px;
     padding: 5px;
     margin-bottom: 10px;
     border: white solid 1px;
-    background-color: lavenderblush;
+    background-color: rgb(224, 104, 144);
 }
 #contact-form input[type='chekbox']{
     height: 2px;
@@ -231,7 +231,7 @@ nav p{
     padding: 5px;
     margin-bottom: 1px;
     border: white solid 1px;
-    background-color: lavenderblush;
+    background-color: rgb(233, 126, 162);
 }
 table {
     text-align: center;
