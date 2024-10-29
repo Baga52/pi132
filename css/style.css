@@ -106,7 +106,7 @@ h3 {
     text-align: center;
 }
  .table-example {
-    border: 5px greenyellow solid;
+    border: 5px rgb(0, 0, 0) solid;
 } 
 .table-example td,
 .table-example th {
@@ -115,16 +115,16 @@ h3 {
 }
 
 .table-example td:nth-child(3){
-    color: blueviolet;
+    color: rgb(240, 24, 24);
     font-weight: bold;
 }
 
 .table-example tr:nth-child(odd){
-    color: rgb(207, 65, 119);
+    color: rgb(224, 0, 245);
     
 }
 .table-example tr:nth-child(odd) td{
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid rgb(0, 0, 0);
 }
 
 #form-example {
